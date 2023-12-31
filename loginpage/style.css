@@ -17,7 +17,7 @@ body {
 	position: absolute;
 	right: 50%;
 	top: 50%;
-	transform: translate(50%, -50%);  /*  (%) değerleri, öğenin kendi boyutlarına göre belirli bir oranda kaydırılmasını ifade eder. ilk parametre x, ikincisi y'yi temsil eder*/
+	transform: translate(50%, -50%);
 	height: 375px;
 	width: 350px;
 	backdrop-filter: blur(15px);
